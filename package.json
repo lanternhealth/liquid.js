@@ -1,27 +1,18 @@
 {
-  "name": "liquid.js",
+  "name": "liquid",
   "version": "1.3.2",
-  "description": "JavaScript port of Tobias Luetke's Liquid template engine.",
+  "description": "React Native Stripe binding for iOS/Andriod platforms",
   "main": "dist/liquid.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "open ./test/liquid-tests.html"
-  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/darthapo/liquid.js.git"
+    "url": "git+https://github.com/darthapo/liquid.js.git"
   },
   "keywords": [
-    "Liquid",
+    "liquid",
     "template",
-    "JS"
+    "js"
   ],
-  "author": "darthapo",
+  "author": "Matt McCray <darthapo@gmail.com>",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/darthapo/liquid.js/issues"
-  },
-  "homepage": "https://github.com/darthapo/liquid.js"
+  "homepage": "https://github.com/darthapo/liquid.js#readme"
 }
